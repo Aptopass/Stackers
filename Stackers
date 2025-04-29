@@ -1,1 +1,23 @@
-
+{
+  "walletAddress": "gill",
+  "userName": "w",
+  "stakeAmount": 21000,
+  "roiPercentage": 5,
+  "startDate": "2026-04-27",
+  "expiryDate": "2025-04-26",
+  "uplineReferralCode": null,
+  "offerDescription": "Standard Subscription",
+  "shortStakeToken": "4C9C40",
+  "usdInput": null,
+  "stakeToken": "8a49af040fd4429d250fc97e93ce722ab19d4c6aa50e63b0ebc50dfcc11cfe82ac72a2bbd70c2c544ae49cf421e3635bfcf38daff7dd26c15c4343bc89ed6a85bb8ac0585ad3d510c0a3713173e4e393a7c94af87718fac55a6f0822200b72d4",
+  "tokenHash": "4c9c4047557cd61f5f829115b841267f368f2e7eecaf95ede3b73b78a1c0cbc1",
+  "referralCode": "REF20914",
+  "usdValue": 120,
+  "dailyROI": 1050,
+  "startFormatted": "2026-04-27_000000",
+  "expiryFormatted": "2025-04-26_000000",
+  "stakerLink": "https://emojinftcoin.com/auto-mint-stake?invoice=gill&token=4C9C40&name=w",
+  "treeLink": "https://emojinftcoin.com/referrals?walletAddress=gill&userName=w&referralCode=REF20914",
+  "referralLink": "https://emojinftcoin.com/subscriptions?ref=REF20914&msg=Join+Emoji+Coin%21",
+  "timestamp": "2025-04-28_165003"
+}
